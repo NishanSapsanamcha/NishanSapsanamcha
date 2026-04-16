@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats
 
-![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishanSapsanamcha\&show_icons=true\&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NishanSapsanamcha)
 
 ---
 
