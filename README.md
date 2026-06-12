@@ -2,8 +2,6 @@
 
 ### A passionate developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NishanSapsanamcha" alt="NishanSapsanamcha" /></a> </p>
-
 - 🔭 I'm currently working on **a PERN stack project**
 
 - 🌱 I'm currently learning **django and fastapi**
